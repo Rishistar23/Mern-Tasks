@@ -1,0 +1,17 @@
+.table1,th,td{
+    border: 1px solid black;
+    background-color: aquamarine;
+ 
+}
+.table1 th,td{
+    border-radius: 25px;
+   
+}
+.table1{
+    border-radius: 10px;
+    width: 80%;
+}
+
+
+
+

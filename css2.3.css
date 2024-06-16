@@ -1,0 +1,21 @@
+
+.table3 th{
+    background-color: hsl(151, 70%, 35%);
+    color: aliceblue;
+    border: 1px solid #f1f1f1;
+}
+.table3{
+    border-radius: 0;
+    width: 80%;
+    border: 1px solid beige;
+    border-collapse: collapse;
+}
+.table3 td{
+    background-color: #f1f1f1;
+    border-radius: 0;
+    border: 1px solid #f1f1f1;
+}
+
+tr:nth-child(even) {
+    background-color: hsl(180, 1%, 60%);
+  }

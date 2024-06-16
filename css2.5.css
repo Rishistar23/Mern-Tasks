@@ -1,0 +1,43 @@
+*{
+    background-color: #e4ee59;
+}
+.page a{
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+    position: relative;
+    height: 30px;
+    width: 150px;
+    padding: 0;
+    margin: 0;
+    
+}
+
+li{
+    margin: 10px;
+    height: 30px;
+    width: 100px;
+    padding-right: 20px;
+}
+
+.ab{
+    background-color: black;
+}
+
+
+a{
+    background-color: aliceblue;
+    text-decoration: none;
+    padding: 5px;
+}
+
+a::after{
+    background-color: black;
+    width: 20%;
+}
+.main{
+    margin-left: 150px;
+    color: purple;
+}

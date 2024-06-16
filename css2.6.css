@@ -1,0 +1,66 @@
+.data{
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+
+}
+
+.forget{
+    margin: auto;
+    width: 10%;
+    
+   
+}
+
+label{
+    font-weight: bold;
+}
+
+#normal{
+    font-weight: 100;
+}
+
+#login{
+    background-color: hwb(133 30% 33%);
+    width: 250px;
+    height: 30px;
+    color: white;
+    border: none;
+}
+
+#usename{
+     width: 250px;
+     height: 30px;
+     
+}
+
+#password{
+    width: 250px;
+    height: 30px;
+}
+
+a{
+    width: 200px;
+}
+
+#cancel{
+    width: 90px;
+    height: 30px;
+    background-color: hsl(0, 93%, 61%);
+    color: white;
+    border: 0;
+}
+
+img{
+    size: auto;
+    height: 200px;
+}
+
+.image{
+    margin: auto;
+    width: 5%
+}
+
+p{
+    text-align: right;
+}
